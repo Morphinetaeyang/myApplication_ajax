@@ -1,3 +1,3 @@
 # myApplication_ajax
 
-dsdsdsdsdsdsdsdsd个ajax的封装
+dsdsqrwewgewgwegewgegwe杩欐槸涓�涓」鐩晄dsdsdsdsdsdsdsd个ajax的封装
